@@ -1,5 +1,5 @@
 ---
-slug: /
+slug: /spdockit-consultant/
 sidebar_position: 1
 ---
 
